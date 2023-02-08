@@ -1,0 +1,7 @@
+READ sentence1
+READ sentence2
+GET output_string concatenates sentence1 and sentence2
+WRITE output_string to python.txt
+OPEN python.txt
+WRITE python.txt to input_string
+PRINT input_string
